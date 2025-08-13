@@ -35,42 +35,6 @@
             "statusCode": "1"
             }
         ]
-    },
-    {
-        "id": 2,
-        "planStatus": [
-            {
-            "planDetails": "Open Access Plus",
-            "serviceTypeCodes": [
-                "30"
-            ],
-            "status": "Active Coverage",
-            "statusCode": "1"
-            },
-            {
-            "serviceTypeCodes": [
-                "A7",
-                "BC",
-                "A8",
-                "A4",
-                "A5",
-                "A6",
-                "7",
-                "4",
-                "BB",
-                "22"
-            ],
-            "status": "Active Coverage",
-            "statusCode": "1"
-            },
-            {
-            "serviceTypeCodes": [
-                "MH"
-            ],
-            "status": "Active Coverage",
-            "statusCode": "1"
-            }
-        ]
     }
     ]
 }    
